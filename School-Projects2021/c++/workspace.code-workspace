@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\Java\\Chapter01"
+		},
+		{
+			"path": "..\\Java\\Chapter02"
+		},
+		{
+			"path": "..\\Java\\you_do_it_Tyler_Johnston"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
